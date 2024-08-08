@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/dxzenith/Swisstronic-Script/main/erc721-nft.sh && chmod +x erc721-nft.sh && ./erc721-nft.sh
